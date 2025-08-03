@@ -2,7 +2,7 @@
 An interactive dashboard providing a data-driven look at 2014-2015 U.S. and Canadian car sales. The project transforms raw sales data into actionable insights on market share, revenue streams, and dealership success through compelling visual analytics.
 
 # Introduction & Dataset Overview
-This Power BI project analyzes U.S. used car sales to help sales executives and brand managers uncover key market trends, identify top-performing models, and understand regional demand patterns. The dashboard focuses on sales activity between 2014 and 2015, offering a dynamic and interactive way to explore sales performance by model, body type, dealership location, and more.
+This Power BI project analyzes U.S. car sales to help sales executives and brand managers uncover key market trends, identify top-performing models, and understand regional demand patterns. The dashboard focuses on sales activity between 2014 and 2015, offering a dynamic and interactive way to explore sales performance by model, body type, dealership location, and more.
 
 The original dataset contained approximately approximately 548,500 records, which was refined to 548,077 after cleaning. The dataset includes details such as make and model, VIN number, body type, selling price, trim, dealership state, and the sale date.
 
